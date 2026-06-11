@@ -1,9 +1,26 @@
 {
   "items": [
     {
+      "id": "learningphp-mysqljavascript-7thedition-robinnixon-z-library-sk-1lib-sk-z-lib-sk",
+      "type": "book",
+      "title": "LearningPHP,MySQLJavaScript,7thEdition(RobinNixon)(z-library.sk,1lib.sk,z-lib.sk)",
+      "author": null,
+      "summary": null,
+      "tags": [],
+      "featured": false,
+      "source": "LearningPHP,MySQLJavaScript,7thEdition(RobinNixon)(z-library.sk,1lib.sk,z-lib.sk).epub",
+      "created_at": "2026-06-11T07:43:04Z",
+      "updated_at": "2026-06-11T07:43:04Z",
+      "chapters_count": 45,
+      "word_count": 178810,
+      "source_format": "markdown-derived"
+    },
+    {
       "id": "learningphp-mysqljavascriptastep-by-stepguidetocreatingdynamicwebsites-7thedition-robinnixon-z-libr",
       "type": "book",
       "title": "LearningPHP,MySQLJavaScriptAStep-by-StepGuidetoCreatingDynamicWebsites,7thEdition(RobinNixon)(z-libr",
+      "author": null,
+      "summary": null,
       "tags": [],
       "featured": false,
       "source": "LearningPHP,MySQLJavaScriptAStep-by-StepGuidetoCreatingDynamicWebsites,7thEdition(RobinNixon)(z-libr.pdf",
@@ -14,9 +31,26 @@
       "source_format": "markdown-derived"
     },
     {
+      "id": "mastervue-jsin6days-becomeavue-jsexpertinunderaweek-ericsarrion-z-library-sk-1lib-sk-z-lib-sk",
+      "type": "book",
+      "title": "MasterVue.jsin6Days.BecomeaVue.jsExpertinUnderaWeek(EricSarrion)(z-library.sk,1lib.sk,z-lib.sk)",
+      "author": null,
+      "summary": null,
+      "tags": [],
+      "featured": false,
+      "source": "MasterVue.jsin6Days.BecomeaVue.jsExpertinUnderaWeek(EricSarrion)(z-library.sk,1lib.sk,z-lib.sk).pdf",
+      "created_at": "2026-06-11T07:22:01Z",
+      "updated_at": "2026-06-11T07:22:01Z",
+      "chapters_count": 6,
+      "word_count": 49039,
+      "source_format": "markdown-derived"
+    },
+    {
       "id": "progit",
       "type": "book",
       "title": "progit",
+      "author": null,
+      "summary": null,
       "tags": [],
       "featured": false,
       "source": "progit.pdf",

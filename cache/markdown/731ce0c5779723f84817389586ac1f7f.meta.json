@@ -1,0 +1,729 @@
+{
+  "page_count": 344,
+  "toc": [
+    {
+      "level": 1,
+      "title": "41GJE6dB8CL._SY445_SX342_"
+    },
+    {
+      "level": 1,
+      "title": "979-8-8688-0364-2_1"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 1: Day 1: Mastering Components in Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "Why Use Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "Virtual DOM"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Virtual DOM Operation"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Concrete Example"
+    },
+    {
+      "level": 3,
+      "title": "Creating a First Vue.js Application"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Installing Node.js and Vue CLI"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Creating the Vue.js Application"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Launching the Vue.js Application"
+    },
+    {
+      "level": 3,
+      "title": "Analyzing the Files Created by Default in the Vue.js Application"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Configuration Files (with .js and  .json Extensions)"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: node_modules Directory"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: public Directory"
+    },
+    {
+      "level": 3,
+      "title": "Step 4: src Directory"
+    },
+    {
+      "level": 3,
+      "title": "Step 5: src/main.js"
+    },
+    {
+      "level": 3,
+      "title": "Step 6: src/App.vue"
+    },
+    {
+      "level": 3,
+      "title": "Step 7: src/components Directory"
+    },
+    {
+      "level": 3,
+      "title": "Step 8: src/assets Directory"
+    },
+    {
+      "level": 3,
+      "title": "Decomposition of a Vue.js Application into Components"
+    },
+    {
+      "level": 3,
+      "title": "Naming Conventions for Vue.js Components"
+    },
+    {
+      "level": 3,
+      "title": "Creating a First Component with Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "Defining Styles in a Vue.js Component"
+    },
+    {
+      "level": 3,
+      "title": "Using the Scoped Attribute in the <style> Tag"
+    },
+    {
+      "level": 3,
+      "title": "Using Vue.js DevTools"
+    },
+    {
+      "level": 3,
+      "title": "Using Vue.js Reactivity with the ref( ) Method"
+    },
+    {
+      "level": 3,
+      "title": "Importing Vue.js Methods into Our Programs"
+    },
+    {
+      "level": 3,
+      "title": "Defining Methods in a Vue.js Component"
+    },
+    {
+      "level": 3,
+      "title": "Defining Computed Properties in a Vue.js Component"
+    },
+    {
+      "level": 3,
+      "title": "Lifecycle in a Vue.js Component"
+    },
+    {
+      "level": 3,
+      "title": "Example of Using Lifecycle Methods in a Vue.js Component"
+    },
+    {
+      "level": 3,
+      "title": "Managing Reactivity Ourselves with the customRef( ) Method"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Operation and Use of customRef( )"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Limiting the Increment of a Variable"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Create a Composable useMaximum( ) to Limit the Value"
+    },
+    {
+      "level": 3,
+      "title": "Step 4: Create a Composable useFormatDate( ) to Format Dates"
+    },
+    {
+      "level": 3,
+      "title": "Step 5: Entering Text in Uppercase"
+    },
+    {
+      "level": 3,
+      "title": "Conclusion"
+    },
+    {
+      "level": 1,
+      "title": "979-8-8688-0364-2_2"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 2: Day 2: Mastering Directives in Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "Using Attributes in Vue.js Components"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Using the init and end Attributes in the MyCounter Component"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Writing the MyCounter Component That Utilizes the init and end Attributes"
+    },
+    {
+      "level": 3,
+      "title": "Passing an Object As Attributes"
+    },
+    {
+      "level": 3,
+      "title": "Differences Between Directives and Attributes in Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "v-bind Directive"
+    },
+    {
+      "level": 3,
+      "title": "Refreshing a Component by Modifying Its Attributes"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Using Attributes in the <template> Section of the MyCounter Component"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Using Attributes in th <script setup> Section of the MyCounter Component"
+    },
+    {
+      "level": 3,
+      "title": "v-if and v-else Directives"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Writing the MyCounter Component in an Intuitive (but Nonfunctional…) Way"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Writing the MyCounter Component After Corrections (And Functional!)"
+    },
+    {
+      "level": 3,
+      "title": "v-show Directive"
+    },
+    {
+      "level": 3,
+      "title": "v-for Directive"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: v-for Directive in the Form v-for=“i in n”"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Use the Key Attribute with the v-for Directive"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Rules Regarding the Key Attribute"
+    },
+    {
+      "level": 3,
+      "title": "Step 4: Use an Index in the Component That Uses v-for"
+    },
+    {
+      "level": 3,
+      "title": "Step 5: v-for Directive in the Form v-for=“(item, i) in items”"
+    },
+    {
+      "level": 3,
+      "title": "v-model Directive"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Difference Between v-bind and v-model Directives"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Using the v-model Directive in Forms"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Managing Input Fields with v-model"
+    },
+    {
+      "level": 3,
+      "title": "Step 4: Managing Selection Lists with v-model"
+    },
+    {
+      "level": 3,
+      "title": "Step 5: Managing Radio Buttons with v-model"
+    },
+    {
+      "level": 3,
+      "title": "Step 6: Managing Check Boxes with v-model"
+    },
+    {
+      "level": 3,
+      "title": "Using Modifiers in Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "Conclusion"
+    },
+    {
+      "level": 1,
+      "title": "979-8-8688-0364-2_3"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 3: Day 3: Mastering Events in Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "Intercepting Events"
+    },
+    {
+      "level": 3,
+      "title": "Writing in the Form “increment()” or \"increment\"?"
+    },
+    {
+      "level": 3,
+      "title": "Using the Event Object"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Filtering Pressed Keys"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Handling the Content of a Field"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Clearing the Field Content on Click"
+    },
+    {
+      "level": 3,
+      "title": "Communication Between a Child Component and a Parent Component"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Communicating with a Child Component"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Communicating with the Parent Component"
+    },
+    {
+      "level": 3,
+      "title": "Using provide() and inject() for Communication Between Components"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Using the provide() Method"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Use the inject() Method"
+    },
+    {
+      "level": 3,
+      "title": "Conclusion"
+    },
+    {
+      "level": 1,
+      "title": "979-8-8688-0364-2_4"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 4: Day 4: Building an Application in Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "Introduction to the REST API"
+    },
+    {
+      "level": 3,
+      "title": "Application Screens"
+    },
+    {
+      "level": 3,
+      "title": "Breaking Down the Application into Components"
+    },
+    {
+      "level": 3,
+      "title": "Retrieving the List of Countries"
+    },
+    {
+      "level": 3,
+      "title": "Filtering the List of Countries According to the Entered Name"
+    },
+    {
+      "level": 3,
+      "title": "Using the watch() Method"
+    },
+    {
+      "level": 3,
+      "title": "Using the watchEffect() Method"
+    },
+    {
+      "level": 3,
+      "title": "Using the provide() and inject() Methods"
+    },
+    {
+      "level": 3,
+      "title": "Giving Focus to the Input Field"
+    },
+    {
+      "level": 3,
+      "title": "Conclusion"
+    },
+    {
+      "level": 1,
+      "title": "979-8-8688-0364-2_5"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 5: Day 5: Mastering the Creation of Directives in Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "Why Create New Directives?"
+    },
+    {
+      "level": 3,
+      "title": "Directive Lifecycle"
+    },
+    {
+      "level": 3,
+      "title": "Creating a New Directive"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Creating the Directive in the src/main.js File"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Creating the Directive in a Directives File"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Creating the Directive in a Separate File"
+    },
+    {
+      "level": 3,
+      "title": "Directive v-integers-only Allowing Only Numerical Input"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Directive in the Form v-integers-only"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Directive in the Form v-integers -only.hexa"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Directive in the Form v-integers-only.hexa.upper"
+    },
+    {
+      "level": 3,
+      "title": "Directive v-max-value Limiting the Maximum Value in an Input Field"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Directive in the Form v-max-value"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Directive in the Form v-max-value=“max”"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Directive in the Form v-max-value.bold=“max”"
+    },
+    {
+      "level": 3,
+      "title": "v-focus Directive for Giving Focus"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: What Is an Argument in a Directive?"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Directive in the Form v-focus"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Directive in the Form v-focus:color=“color”"
+    },
+    {
+      "level": 3,
+      "title": "Step 4: Directive in the Form v-focus:backgroundcolor=“bcolor”"
+    },
+    {
+      "level": 3,
+      "title": "Step 5: Directive in the Form v-focus:colors=“colors”"
+    },
+    {
+      "level": 3,
+      "title": "v-clearable Directive for Adding a Clear Button to the Input Field"
+    },
+    {
+      "level": 3,
+      "title": "v-timer Directive for Displaying Real-Time Clock"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Directive in the Form v-timer"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Directive in the Form v-timer.ms"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Directive in the Form v-timer.chrono"
+    },
+    {
+      "level": 3,
+      "title": "Conclusion"
+    },
+    {
+      "level": 1,
+      "title": "979-8-8688-0364-2_6"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 6: Day 6: Mastering the Creation of Composables in Vue.js"
+    },
+    {
+      "level": 3,
+      "title": "Why Create Composables?"
+    },
+    {
+      "level": 3,
+      "title": "Differences Between Composables and Directives"
+    },
+    {
+      "level": 3,
+      "title": "Creating a Vue.js Composable"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Creating the useCounter( ) Composable"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Return Composable Data As an Array or As an Object?"
+    },
+    {
+      "level": 3,
+      "title": "Improving a Vue.js Composable"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: useCounterMax( ) Composable"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: useCounterMaxWithError( ) Composable"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Improved useCounterMaxWithError () Composable"
+    },
+    {
+      "level": 3,
+      "title": "Utility Composables"
+    },
+    {
+      "level": 3,
+      "title": "useFetch() Composable for Performing an HTTP Request"
+    },
+    {
+      "level": 3,
+      "title": "useFetchCountries() Composable Derived from useFetch()"
+    },
+    {
+      "level": 3,
+      "title": "useWindowSize() Composable for Real-Time Window Size Information"
+    },
+    {
+      "level": 3,
+      "title": "useGeolocation( ) Composable for Obtaining User Latitude and Longitude"
+    },
+    {
+      "level": 3,
+      "title": "useGeolocationWithDetails() Composable Derived from useGeolocation()"
+    },
+    {
+      "level": 3,
+      "title": "useMap() Composable for Displaying the GPS Location Map"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Install the Leaflet API"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Using the Leaflet API"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Writing the useMap( ) Composable"
+    },
+    {
+      "level": 3,
+      "title": "Step 4: v-map Directive Using the useMap( ) Composable"
+    },
+    {
+      "level": 3,
+      "title": "Conclusion"
+    },
+    {
+      "level": 1,
+      "title": "979-8-8688-0364-2_7"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 7: JavaScript Reminders"
+    },
+    {
+      "level": 3,
+      "title": "Using the Keywords let and var in JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Using the const Keyword in JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Manipulating Objects in JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Structuring an Object"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Object Destructuring"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Passing Objects As Function Parameters"
+    },
+    {
+      "level": 3,
+      "title": "Step 4: Using the “...” Notation with Objects"
+    },
+    {
+      "level": 3,
+      "title": "Manipulating Arrays in JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Structuring an Array"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Array Destructuring"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Using the “...” Notation with Arrays"
+    },
+    {
+      "level": 3,
+      "title": "Using Import and Export of Modules in JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Using Modules in HTML Files"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Using the import Statement"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Using the export Statement"
+    },
+    {
+      "level": 3,
+      "title": "Step 4: Using the export default Statement"
+    },
+    {
+      "level": 3,
+      "title": "Step 5: Difference Between export and export default Statements"
+    },
+    {
+      "level": 3,
+      "title": "Using Arrow Functions in JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Using Arrow Function Syntax"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Understanding the Value of this in Arrow Functions"
+    },
+    {
+      "level": 3,
+      "title": "Using the map() and filter() Methods of the JavaScript Array Class"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Using the map() Method"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Using the filter() Method"
+    },
+    {
+      "level": 3,
+      "title": "Using Promise Objects in JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Promise Object Definition"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Without Using Promise Objects"
+    },
+    {
+      "level": 3,
+      "title": "Step 3: Using Promise Objects"
+    },
+    {
+      "level": 3,
+      "title": "Using async and await Statements in JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Creating an Asynchronous Function That Utilizes JavaScript’s await Statement"
+    },
+    {
+      "level": 3,
+      "title": "Step 1: Using await with a Function That Returns a Promise Object"
+    },
+    {
+      "level": 3,
+      "title": "Step 2: Using await with a Function Declared with async"
+    },
+    {
+      "level": 3,
+      "title": "Conclusion"
+    }
+  ]
+}

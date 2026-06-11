@@ -1,0 +1,561 @@
+{
+  "title": "MasterVue.jsin6Days.BecomeaVue.jsExpertinUnderaWeek(EricSarrion)(z-library.sk,1lib.sk,z-lib.sk)",
+  "children": [
+    {
+      "title": "Preface",
+      "slug": "00-preface",
+      "children": [
+        {
+          "title": "Day 1: Mastering Components in Vue.js",
+          "slug": "00-preface",
+          "anchor": "day-1-mastering-components-in-vue-js"
+        },
+        {
+          "title": "Chapter 2: Day 2: Mastering Directives in Vue.js",
+          "slug": "00-preface",
+          "anchor": "chapter-2-day-2-mastering-directives-in-vue-js"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 1: Day 1: Mastering Components in Vue.js",
+      "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+      "children": [
+        {
+          "title": "Intercepting Events",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "intercepting-events"
+        },
+        {
+          "title": "Writing in the Form “increment( )” or \"increment\"?",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "writing-in-the-form-increment-or-increment"
+        },
+        {
+          "title": "Using the Event Object",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "using-the-event-object"
+        },
+        {
+          "title": "Step 1: Filtering Pressed Keys",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "step-1-filtering-pressed-keys"
+        },
+        {
+          "title": "Step 2: Handling the Content of a Field",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "step-2-handling-the-content-of-a-field"
+        },
+        {
+          "title": "Step 3: Clearing the Field Content on Click",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "step-3-clearing-the-field-content-on-click"
+        },
+        {
+          "title": "Communication Between a Child Component and a Parent Component",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "communication-between-a-child-component-and-a-parent-component"
+        },
+        {
+          "title": "Step 1: Communicating with a Child Component",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "step-1-communicating-with-a-child-component"
+        },
+        {
+          "title": "Step 2: Communicating with the Parent Component",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "step-2-communicating-with-the-parent-component"
+        },
+        {
+          "title": "Using provide( ) and inject( ) for Communication Between Components",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "using-provide-and-inject-for-communication-between-components"
+        },
+        {
+          "title": "Step 1: Using the provide( ) Method",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "step-1-using-the-provide-method"
+        },
+        {
+          "title": "Step 2: Use the inject( ) Method",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "step-2-use-the-inject-method"
+        },
+        {
+          "title": "Conclusion",
+          "slug": "01-chapter-1-day-1-mastering-components-in-vue-js",
+          "anchor": "conclusion"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: Day 4: Building an Application in Vue.js",
+      "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+      "children": [
+        {
+          "title": "Introduction to the REST API",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "introduction-to-the-rest-api"
+        },
+        {
+          "title": "Application Screens",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "application-screens"
+        },
+        {
+          "title": "Breaking Down the Application into Components",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "breaking-down-the-application-into-components"
+        },
+        {
+          "title": "Retrieving the List of Countries",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "retrieving-the-list-of-countries"
+        },
+        {
+          "title": "Filtering the List of Countries According to the Entered Name",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "filtering-the-list-of-countries-according-to-the-entered-name"
+        },
+        {
+          "title": "Using the watch( ) Method",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "using-the-watch-method"
+        },
+        {
+          "title": "Using the watchEffect( ) Method",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "using-the-watcheffect-method"
+        },
+        {
+          "title": "Using the provide( ) and inject( ) Methods",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "using-the-provide-and-inject-methods"
+        },
+        {
+          "title": "Giving Focus to the Input Field",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "giving-focus-to-the-input-field"
+        },
+        {
+          "title": "Conclusion",
+          "slug": "02-chapter-4-day-4-building-an-application-in-vue-js",
+          "anchor": "conclusion"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Day 5: Mastering the Creation of Directives in Vue.js",
+      "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+      "children": [
+        {
+          "title": "Why Create New Directives?",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "why-create-new-directives"
+        },
+        {
+          "title": "Directive Lifecycle",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "directive-lifecycle"
+        },
+        {
+          "title": "Creating a New Directive",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "creating-a-new-directive"
+        },
+        {
+          "title": "Step 1: Creating the Directive in the src/ main.js File",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-1-creating-the-directive-in-the-src-main-js-file"
+        },
+        {
+          "title": "Step 2: Creating the Directive in a Directives File",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-2-creating-the-directive-in-a-directives-file"
+        },
+        {
+          "title": "Step 3: Creating the Directive in a Separate File",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-3-creating-the-directive-in-a-separate-file"
+        },
+        {
+          "title": "Directive v-integers-only Allowing Only Numerical Input",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "directive-v-integers-only-allowing-only-numerical-input"
+        },
+        {
+          "title": "Step 1: Directive in the Form v-integers-only",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-1-directive-in-the-form-v-integers-only"
+        },
+        {
+          "title": "Step 2: Directive in the Form v-integers -only.hexa",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-2-directive-in-the-form-v-integers-only-hexa"
+        },
+        {
+          "title": "Step 3: Directive in the Form v-integers-only.hexa.upper",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-3-directive-in-the-form-v-integers-only-hexa-upper"
+        },
+        {
+          "title": "Directive v-max-value Limiting the Maximum Value in an Input Field",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "directive-v-max-value-limiting-the-maximum-value-in-an-input-field"
+        },
+        {
+          "title": "Step 1: Directive in the Form v-max-value",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-1-directive-in-the-form-v-max-value"
+        },
+        {
+          "title": "Step 2: Directive in the Form v-max-value=“max”",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-2-directive-in-the-form-v-max-value-max"
+        },
+        {
+          "title": "Step 3: Directive in the Form v-max-value. bold=“max”",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-3-directive-in-the-form-v-max-value-bold-max"
+        },
+        {
+          "title": "v-focus Directive for Giving Focus",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "v-focus-directive-for-giving-focus"
+        },
+        {
+          "title": "Step 1: What Is an Argument in a Directive?",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-1-what-is-an-argument-in-a-directive"
+        },
+        {
+          "title": "Step 2: Directive in the Form v-focus",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-2-directive-in-the-form-v-focus"
+        },
+        {
+          "title": "Step 3: Directive in the Form v-focus:color=“color”",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-3-directive-in-the-form-v-focus-color-color"
+        },
+        {
+          "title": "Step 4: Directive in the Form v-focus:backgroundcolor=“bcolor”",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-4-directive-in-the-form-v-focus-backgroundcolor-bcolor"
+        },
+        {
+          "title": "Step 5: Directive in the Form v-focus:colors=“colors”",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-5-directive-in-the-form-v-focus-colors-colors"
+        },
+        {
+          "title": "v-clearable Directive for Adding a Clear Button to the Input Field",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "v-clearable-directive-for-adding-a-clear-button-to-the-input-field"
+        },
+        {
+          "title": "v-timer Directive for Displaying Real-Time Clock",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "v-timer-directive-for-displaying-real-time-clock"
+        },
+        {
+          "title": "Step 1: Directive in the Form v-timer",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-1-directive-in-the-form-v-timer"
+        },
+        {
+          "title": "Step 2: Directive in the Form v-timer.ms",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-2-directive-in-the-form-v-timer-ms"
+        },
+        {
+          "title": "Step 3: Directive in the Form v-timer.chrono",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "step-3-directive-in-the-form-v-timer-chrono"
+        },
+        {
+          "title": "Conclusion",
+          "slug": "03-chapter-5-day-5-mastering-the-creation-of-directives-in-vue-js",
+          "anchor": "conclusion"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6: Day 6: Mastering the Creation of Composables in Vue.js",
+      "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+      "children": [
+        {
+          "title": "Why Create Composables?",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "why-create-composables"
+        },
+        {
+          "title": "Differences Between Composables and Directives",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "differences-between-composables-and-directives"
+        },
+        {
+          "title": "Creating a Vue.js Composable",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "creating-a-vue-js-composable"
+        },
+        {
+          "title": "Step 1: Creating the useCounter( ) Composable",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "step-1-creating-the-usecounter-composable"
+        },
+        {
+          "title": "Step 2: Return Composable Data As an Array or As an Object?",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "step-2-return-composable-data-as-an-array-or-as-an-object"
+        },
+        {
+          "title": "Improving a Vue.js Composable",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "improving-a-vue-js-composable"
+        },
+        {
+          "title": "Step 1: useCounterMax( ) Composable",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "step-1-usecountermax-composable"
+        },
+        {
+          "title": "Step 2: useCounterMaxWithError( ) Composable",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "step-2-usecountermaxwitherror-composable"
+        },
+        {
+          "title": "Step 3: Improved useCounterMaxWithError ( ) Composable",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "step-3-improved-usecountermaxwitherror-composable"
+        },
+        {
+          "title": "Utility Composables",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "utility-composables"
+        },
+        {
+          "title": "useFetch( ) Composable for Performing an HTTP Request",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "usefetch-composable-for-performing-an-http-request"
+        },
+        {
+          "title": "useFetchCountries( ) Composable Derived from useFetch( )",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "usefetchcountries-composable-derived-from-usefetch"
+        },
+        {
+          "title": "useWindowSize( ) Composable for Real-Time Window Size Information",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "usewindowsize-composable-for-real-time-window-size-information"
+        },
+        {
+          "title": "useGeolocation( ) Composable for Obtaining User Latitude and Longitude",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "usegeolocation-composable-for-obtaining-user-latitude-and-longitude"
+        },
+        {
+          "title": "useGeolocationWithDetails( ) Composable Derived from useGeolocation( )",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "usegeolocationwithdetails-composable-derived-from-usegeolocation"
+        },
+        {
+          "title": "useMap( ) Composable for Displaying the GPS Location Map",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "usemap-composable-for-displaying-the-gps-location-map"
+        },
+        {
+          "title": "Step 1: Install the Leaflet API",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "step-1-install-the-leaflet-api"
+        },
+        {
+          "title": "Step 2: Using the Leaflet API",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "step-2-using-the-leaflet-api"
+        },
+        {
+          "title": "Step 3: Writing the useMap( ) Composable",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "step-3-writing-the-usemap-composable"
+        },
+        {
+          "title": "Step 4: v-map Directive Using the useMap( ) Composable",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "step-4-v-map-directive-using-the-usemap-composable"
+        },
+        {
+          "title": "Conclusion",
+          "slug": "04-chapter-6-day-6-mastering-the-creation-of-composables-in-vue-js",
+          "anchor": "conclusion"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7: JavaScript Reminders",
+      "slug": "05-chapter-7-javascript-reminders",
+      "children": [
+        {
+          "title": "Using the Keywords let and var in JavaScript",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "using-the-keywords-let-and-var-in-javascript"
+        },
+        {
+          "title": "Using the const Keyword in JavaScript",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "using-the-const-keyword-in-javascript"
+        },
+        {
+          "title": "Manipulating Objects in JavaScript",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "manipulating-objects-in-javascript"
+        },
+        {
+          "title": "Step 1: Structuring an Object",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-1-structuring-an-object"
+        },
+        {
+          "title": "Step 2: Object Destructuring",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-2-object-destructuring"
+        },
+        {
+          "title": "Step 3: Passing Objects As Function Parameters",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-3-passing-objects-as-function-parameters"
+        },
+        {
+          "title": "Step 4: Using the “...” Notation with Objects",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-4-using-the-notation-with-objects"
+        },
+        {
+          "title": "Manipulating Arrays in JavaScript",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "manipulating-arrays-in-javascript"
+        },
+        {
+          "title": "Step 1: Structuring an Array",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-1-structuring-an-array"
+        },
+        {
+          "title": "Step 2: Array Destructuring",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-2-array-destructuring"
+        },
+        {
+          "title": "Step 3: Using the “...” Notation with Arrays",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-3-using-the-notation-with-arrays"
+        },
+        {
+          "title": "Using Import and Export of Modules in JavaScript",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "using-import-and-export-of-modules-in-javascript"
+        },
+        {
+          "title": "Step 1: Using Modules in HTML Files",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-1-using-modules-in-html-files"
+        },
+        {
+          "title": "Step 2: Using the import Statement",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-2-using-the-import-statement"
+        },
+        {
+          "title": "Step 3: Using the export Statement",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-3-using-the-export-statement"
+        },
+        {
+          "title": "Step 4: Using the export default Statement",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-4-using-the-export-default-statement"
+        },
+        {
+          "title": "Step 5: Difference Between export and export default Statements",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-5-difference-between-export-and-export-default-statements"
+        },
+        {
+          "title": "Using Arrow Functions in JavaScript",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "using-arrow-functions-in-javascript"
+        },
+        {
+          "title": "Step 1: Using Arrow Function Syntax",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-1-using-arrow-function-syntax"
+        },
+        {
+          "title": "Step 2: Understanding the Value of this in Arrow Functions",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-2-understanding-the-value-of-this-in-arrow-functions"
+        },
+        {
+          "title": "Using the map( ) and filter( ) Methods of the JavaScript Array Class",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "using-the-map-and-filter-methods-of-the-javascript-array-class"
+        },
+        {
+          "title": "Step 1: Using the map( ) Method",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-1-using-the-map-method"
+        },
+        {
+          "title": "Step 2: Using the filter( ) Method",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-2-using-the-filter-method"
+        },
+        {
+          "title": "Using Promise Objects in JavaScript",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "using-promise-objects-in-javascript"
+        },
+        {
+          "title": "Step 1: Promise Object Definition",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-1-promise-object-definition"
+        },
+        {
+          "title": "Step 2: Without Using Promise Objects",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-2-without-using-promise-objects"
+        },
+        {
+          "title": "Without using Promise objects",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "without-using-promise-objects"
+        },
+        {
+          "title": "Using async and await Statements in JavaScript",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "using-async-and-await-statements-in-javascript"
+        },
+        {
+          "title": "Creating an Asynchronous Function That Utilizes JavaScript’s await Statement",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "creating-an-asynchronous-function-that-utilizes-javascript-s-await-statement"
+        },
+        {
+          "title": "Step 1: Using await with a Function That Returns a Promise Object",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-1-using-await-with-a-function-that-returns-a-promise-object"
+        },
+        {
+          "title": "Step 2: Using await with a Function Declared with async",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "step-2-using-await-with-a-function-declared-with-async"
+        },
+        {
+          "title": "Conclusion",
+          "slug": "05-chapter-7-javascript-reminders",
+          "anchor": "conclusion"
+        }
+      ]
+    }
+  ]
+}
