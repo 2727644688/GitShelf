@@ -1,0 +1,10 @@
+{
+  "failures": [
+    {
+      "filename": "LearningPHP,MySQLJavaScriptAStep-by-StepGuidetoCreatingDynamicWebsites,7thEdition(RobinNixon)(z-libr.pdf",
+      "book_id": "learningphp-mysqljavascriptastep-by-stepguidetocreatingdynamicwebsites-7thedition-robinnixon-z-libr",
+      "error": "No API token provided. Pass token= or set MINERU_TOKEN.",
+      "failed_at": "2026-06-11T04:58:47Z"
+    }
+  ]
+}
