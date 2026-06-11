@@ -1,0 +1,1092 @@
+{
+  "title": "LearningPHP,MySQLJavaScriptAStep-by-StepGuidetoCreatingDynamicWebsites,7thEdition(RobinNixon)(z-libr",
+  "children": [
+    {
+      "title": "Preface",
+      "slug": "00-preface"
+    },
+    {
+      "title": "Table of Contents",
+      "slug": "01-table-of-contents"
+    },
+    {
+      "title": "Preface",
+      "slug": "02-preface",
+      "children": [
+        {
+          "title": "Audience",
+          "slug": "02-preface",
+          "anchor": "audience"
+        },
+        {
+          "title": "Assumptions This Book Makes",
+          "slug": "02-preface",
+          "anchor": "assumptions-this-book-makes"
+        },
+        {
+          "title": "Organization of This Book",
+          "slug": "02-preface",
+          "anchor": "organization-of-this-book"
+        },
+        {
+          "title": "Conventions Used in This Book",
+          "slug": "02-preface",
+          "anchor": "conventions-used-in-this-book"
+        },
+        {
+          "title": "Using Code Examples",
+          "slug": "02-preface",
+          "anchor": "using-code-examples"
+        },
+        {
+          "title": "O’Reilly Online Learning",
+          "slug": "02-preface",
+          "anchor": "o-reilly-online-learning"
+        },
+        {
+          "title": "How to Contact Us",
+          "slug": "02-preface",
+          "anchor": "how-to-contact-us"
+        },
+        {
+          "title": "Acknowledgments",
+          "slug": "02-preface",
+          "anchor": "acknowledgments"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 1. Introduction to Dynamic Web Content",
+      "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+      "children": [
+        {
+          "title": "HTTP and HTML: Berners-Lee’s Basics",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "http-and-html-berners-lee-s-basics"
+        },
+        {
+          "title": "The Request/Response Procedure",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "the-request-response-procedure"
+        },
+        {
+          "title": "The Benefits of PHP, MySQL, JavaScript, CSS, and HTML",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "the-benefits-of-php-mysql-javascript-css-and-html"
+        },
+        {
+          "title": "And Then There’s HTML5",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "and-then-there-s-html5"
+        },
+        {
+          "title": "The Apache Web Server",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "the-apache-web-server"
+        },
+        {
+          "title": "Node.js: An Alternative to Apache",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "node-js-an-alternative-to-apache"
+        },
+        {
+          "title": "About Open Source",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "about-open-source"
+        },
+        {
+          "title": "Bringing It All Together",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "bringing-it-all-together"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "What Is a WAMP, MAMP, or LAMP?",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "what-is-a-wamp-mamp-or-lamp"
+        },
+        {
+          "title": "Installing AMPPS on Windows",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "installing-ampps-on-windows"
+        },
+        {
+          "title": "Installing AMPPS on macOS",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "installing-ampps-on-macos"
+        },
+        {
+          "title": "Installing a LAMP on Linux",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "installing-a-lamp-on-linux"
+        },
+        {
+          "title": "Working Remotely",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "working-remotely"
+        },
+        {
+          "title": "Using a Code Editor",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-a-code-editor"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Incorporating PHP Within HTML",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "incorporating-php-within-html"
+        },
+        {
+          "title": "This Book’s Examples",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "this-book-s-examples"
+        },
+        {
+          "title": "The Structure of PHP",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "the-structure-of-php"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Expressions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "expressions"
+        },
+        {
+          "title": "Operators",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "operators"
+        },
+        {
+          "title": "Conditionals",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "conditionals"
+        },
+        {
+          "title": "Looping",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "looping"
+        },
+        {
+          "title": "Implicit and Explicit Casting",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "implicit-and-explicit-casting"
+        },
+        {
+          "title": "PHP Modularization",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "php-modularization"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "PHP Functions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "php-functions"
+        },
+        {
+          "title": "Including and Requiring Files",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "including-and-requiring-files"
+        },
+        {
+          "title": "PHP Version Compatibility",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "php-version-compatibility"
+        },
+        {
+          "title": "PHP Objects",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "php-objects"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Basic Access",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "basic-access"
+        },
+        {
+          "title": "The foreach...as Loop",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "the-foreach-as-loop"
+        },
+        {
+          "title": "Multidimensional Arrays",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "multidimensional-arrays"
+        },
+        {
+          "title": "Using Array Functions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-array-functions"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Using printf",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-printf"
+        },
+        {
+          "title": "Date and Time Functions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "date-and-time-functions"
+        },
+        {
+          "title": "File Handling",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "file-handling"
+        },
+        {
+          "title": "System Calls",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "system-calls"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "MySQL Basics",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "mysql-basics"
+        },
+        {
+          "title": "Key Database Terms",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "key-database-terms"
+        },
+        {
+          "title": "Accessing MySQL via the Command Line",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "accessing-mysql-via-the-command-line"
+        },
+        {
+          "title": "Indexes",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "indexes"
+        },
+        {
+          "title": "MySQL Functions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "mysql-functions"
+        },
+        {
+          "title": "Accessing MySQL via phpMyAdmin",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "accessing-mysql-via-phpmyadmin"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Database Design",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "database-design"
+        },
+        {
+          "title": "Primary Keys: The Keys to Relational Databases",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "primary-keys-the-keys-to-relational-databases"
+        },
+        {
+          "title": "Normalization",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "normalization"
+        },
+        {
+          "title": "Relationships",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "relationships"
+        },
+        {
+          "title": "Transactions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "transactions"
+        },
+        {
+          "title": "Using EXPLAIN",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-explain"
+        },
+        {
+          "title": "Backing Up and Restoring",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "backing-up-and-restoring"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Querying a MySQL Database with PHP",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "querying-a-mysql-database-with-php"
+        },
+        {
+          "title": "A Practical Example",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "a-practical-example"
+        },
+        {
+          "title": "Practical MySQL",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "practical-mysql"
+        },
+        {
+          "title": "Preventing Hacking Attempts",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "preventing-hacking-attempts"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Building Forms",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "building-forms"
+        },
+        {
+          "title": "Retrieving Submitted Data",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "retrieving-submitted-data"
+        },
+        {
+          "title": "An Example Program",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "an-example-program"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Using Cookies in PHP",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-cookies-in-php"
+        },
+        {
+          "title": "HTTP Authentication",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "http-authentication"
+        },
+        {
+          "title": "Using Sessions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-sessions"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Outputting the Results",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "outputting-the-results"
+        },
+        {
+          "title": "JavaScript and HTML Text",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "javascript-and-html-text"
+        },
+        {
+          "title": "Using Comments",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-comments"
+        },
+        {
+          "title": "Semicolons",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "semicolons"
+        },
+        {
+          "title": "Variables",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "variables"
+        },
+        {
+          "title": "Operators",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "operators"
+        },
+        {
+          "title": "Variable Typing",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "variable-typing"
+        },
+        {
+          "title": "Functions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "functions"
+        },
+        {
+          "title": "Global Variables",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "global-variables"
+        },
+        {
+          "title": "Local Variables",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "local-variables"
+        },
+        {
+          "title": "The Document Object Model",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "the-document-object-model"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Expressions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "expressions"
+        },
+        {
+          "title": "Literals and Variables",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "literals-and-variables"
+        },
+        {
+          "title": "Operators",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "operators"
+        },
+        {
+          "title": "Using onerror",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-onerror"
+        },
+        {
+          "title": "Using try...catch",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-try-catch"
+        },
+        {
+          "title": "Conditionals",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "conditionals"
+        },
+        {
+          "title": "Looping",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "looping"
+        },
+        {
+          "title": "Explicit Casting",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "explicit-casting"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "JavaScript Functions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "javascript-functions"
+        },
+        {
+          "title": "JavaScript Objects",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "javascript-objects"
+        },
+        {
+          "title": "JavaScript Arrays",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "javascript-arrays"
+        },
+        {
+          "title": "Anonymous Functions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "anonymous-functions"
+        },
+        {
+          "title": "Arrow Functions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "arrow-functions"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Validating User Input with JavaScript",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "validating-user-input-with-javascript"
+        },
+        {
+          "title": "Regular Expressions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "regular-expressions"
+        },
+        {
+          "title": "Redisplaying a Form After PHP Validation",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "redisplaying-a-form-after-php-validation"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "The Fetch API",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "the-fetch-api"
+        },
+        {
+          "title": "Using XMLHttpRequest",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-xmlhttprequest"
+        },
+        {
+          "title": "Using Frameworks for Asynchronous Communication",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-frameworks-for-asynchronous-communication"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Attribute Selectors",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "attribute-selectors"
+        },
+        {
+          "title": "The box-sizing Property",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "the-box-sizing-property"
+        },
+        {
+          "title": "CSS Backgrounds",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "css-backgrounds"
+        },
+        {
+          "title": "CSS Borders",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "css-borders"
+        },
+        {
+          "title": "Box Shadows",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "box-shadows"
+        },
+        {
+          "title": "Element Overflow",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "element-overflow"
+        },
+        {
+          "title": "Multicolumn Layout",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "multicolumn-layout"
+        },
+        {
+          "title": "Colors and Opacity",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "colors-and-opacity"
+        },
+        {
+          "title": "Text Effects",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "text-effects"
+        },
+        {
+          "title": "Web Fonts",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "web-fonts"
+        },
+        {
+          "title": "Google Web Fonts",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "google-web-fonts"
+        },
+        {
+          "title": "Transformations",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "transformations"
+        },
+        {
+          "title": "Transitions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "transitions"
+        },
+        {
+          "title": "Flexbox",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "flexbox"
+        },
+        {
+          "title": "CSS Grid",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "css-grid"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Revisiting the getElementById Function",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "revisiting-the-getelementbyid-function"
+        },
+        {
+          "title": "Accessing CSS Properties from JavaScript",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "accessing-css-properties-from-javascript"
+        },
+        {
+          "title": "Inline JavaScript",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "inline-javascript"
+        },
+        {
+          "title": "Adding New Elements",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "adding-new-elements"
+        },
+        {
+          "title": "Time-based Events",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "time-based-events"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "What Is the Point of React Anyway?",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "what-is-the-point-of-react-anyway"
+        },
+        {
+          "title": "Accessing the React Files",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "accessing-the-react-files"
+        },
+        {
+          "title": "Including babel.js",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "including-babel-js"
+        },
+        {
+          "title": "Our First React Project",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "our-first-react-project"
+        },
+        {
+          "title": "React State and Life Cycle",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "react-state-and-life-cycle"
+        },
+        {
+          "title": "Events in React",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "events-in-react"
+        },
+        {
+          "title": "Inline JSX Conditional Statements",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "inline-jsx-conditional-statements"
+        },
+        {
+          "title": "Using Lists and Keys",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "using-lists-and-keys"
+        },
+        {
+          "title": "Unique Keys",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "unique-keys"
+        },
+        {
+          "title": "Handling Forms",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "handling-forms"
+        },
+        {
+          "title": "React Native",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "react-native"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Installing Node.js on Windows",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "installing-node-js-on-windows"
+        },
+        {
+          "title": "Installing Node.js on macOS",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "installing-node-js-on-macos"
+        },
+        {
+          "title": "Installing Node.js on Linux",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "installing-node-js-on-linux"
+        },
+        {
+          "title": "Getting Started with Node.js",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "getting-started-with-node-js"
+        },
+        {
+          "title": "Building a Functioning Web Server",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "building-a-functioning-web-server"
+        },
+        {
+          "title": "Working with Modules",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "working-with-modules"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Designing a Social Networking App",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "designing-a-social-networking-app"
+        },
+        {
+          "title": "Online Repository",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "online-repository"
+        },
+        {
+          "title": "functions.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "functions-php"
+        },
+        {
+          "title": "header.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "header-php"
+        },
+        {
+          "title": "setup.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "setup-php"
+        },
+        {
+          "title": "index.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "index-php"
+        },
+        {
+          "title": "signup.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "signup-php"
+        },
+        {
+          "title": "checkuser.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "checkuser-php"
+        },
+        {
+          "title": "login.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "login-php"
+        },
+        {
+          "title": "profile.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "profile-php"
+        },
+        {
+          "title": "members.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "members-php"
+        },
+        {
+          "title": "friends.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "friends-php"
+        },
+        {
+          "title": "messages.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "messages-php"
+        },
+        {
+          "title": "logout.php",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "logout-php"
+        },
+        {
+          "title": "styles.css",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "styles-css"
+        },
+        {
+          "title": "javascript.js",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "javascript-js"
+        },
+        {
+          "title": "Questions",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "questions"
+        },
+        {
+          "title": "Chapter 1 Answers",
+          "slug": "03-chapter-1-introduction-to-dynamic-web-content",
+          "anchor": "chapter-1-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2. Setting Up a Development Server",
+      "slug": "04-chapter-2-setting-up-a-development-server",
+      "children": [
+        {
+          "title": "Chapter 2 Answers",
+          "slug": "04-chapter-2-setting-up-a-development-server",
+          "anchor": "chapter-2-answers"
+        },
+        {
+          "title": "Chapter 3 Answers",
+          "slug": "04-chapter-2-setting-up-a-development-server",
+          "anchor": "chapter-3-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4. Expressions and Control Flow in PHP",
+      "slug": "05-chapter-4-expressions-and-control-flow-in-php",
+      "children": [
+        {
+          "title": "Chapter 4 Answers",
+          "slug": "05-chapter-4-expressions-and-control-flow-in-php",
+          "anchor": "chapter-4-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5. PHP Functions and Objects",
+      "slug": "06-chapter-5-php-functions-and-objects",
+      "children": [
+        {
+          "title": "Chapter 5 Answers",
+          "slug": "06-chapter-5-php-functions-and-objects",
+          "anchor": "chapter-5-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6. PHP Arrays",
+      "slug": "07-chapter-6-php-arrays",
+      "children": [
+        {
+          "title": "Chapter 6 Answers",
+          "slug": "07-chapter-6-php-arrays",
+          "anchor": "chapter-6-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7. Practical PHP",
+      "slug": "08-chapter-7-practical-php",
+      "children": [
+        {
+          "title": "Chapter 7 Answers",
+          "slug": "08-chapter-7-practical-php",
+          "anchor": "chapter-7-answers"
+        },
+        {
+          "title": "Chapter 8 Answers",
+          "slug": "08-chapter-7-practical-php",
+          "anchor": "chapter-8-answers"
+        },
+        {
+          "title": "Chapter 9 Answers",
+          "slug": "08-chapter-7-practical-php",
+          "anchor": "chapter-9-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 10. Accessing MySQL Using PHP",
+      "slug": "09-chapter-10-accessing-mysql-using-php",
+      "children": [
+        {
+          "title": "Chapter 10 Answers",
+          "slug": "09-chapter-10-accessing-mysql-using-php",
+          "anchor": "chapter-10-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 11. Form Handling",
+      "slug": "10-chapter-11-form-handling",
+      "children": [
+        {
+          "title": "Chapter 11 Answers",
+          "slug": "10-chapter-11-form-handling",
+          "anchor": "chapter-11-answers"
+        },
+        {
+          "title": "Chapter 12 Answers",
+          "slug": "10-chapter-11-form-handling",
+          "anchor": "chapter-12-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 13. Exploring JavaScript",
+      "slug": "11-chapter-13-exploring-javascript",
+      "children": [
+        {
+          "title": "Chapter 13 Answers",
+          "slug": "11-chapter-13-exploring-javascript",
+          "anchor": "chapter-13-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 14. Expressions and Control Flow in JavaScript",
+      "slug": "12-chapter-14-expressions-and-control-flow-in-javascript",
+      "children": [
+        {
+          "title": "Chapter 14 Answers",
+          "slug": "12-chapter-14-expressions-and-control-flow-in-javascript",
+          "anchor": "chapter-14-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 15. JavaScript Functions, Objects, and Arrays",
+      "slug": "13-chapter-15-javascript-functions-objects-and-arrays",
+      "children": [
+        {
+          "title": "Chapter 15 Answers",
+          "slug": "13-chapter-15-javascript-functions-objects-and-arrays",
+          "anchor": "chapter-15-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 16. JavaScript and PHP Validation and Error Handling",
+      "slug": "14-chapter-16-javascript-and-php-validation-and-error-handling",
+      "children": [
+        {
+          "title": "Chapter 16 Answers",
+          "slug": "14-chapter-16-javascript-and-php-validation-and-error-handling",
+          "anchor": "chapter-16-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 17. Using Asynchronous Communication",
+      "slug": "15-chapter-17-using-asynchronous-communication",
+      "children": [
+        {
+          "title": "Chapter 17 Answers",
+          "slug": "15-chapter-17-using-asynchronous-communication",
+          "anchor": "chapter-17-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 18. Advanced CSS",
+      "slug": "16-chapter-18-advanced-css",
+      "children": [
+        {
+          "title": "Chapter 18 Answers",
+          "slug": "16-chapter-18-advanced-css",
+          "anchor": "chapter-18-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 19. Accessing CSS from JavaScript",
+      "slug": "17-chapter-19-accessing-css-from-javascript",
+      "children": [
+        {
+          "title": "Chapter 19 Answers",
+          "slug": "17-chapter-19-accessing-css-from-javascript",
+          "anchor": "chapter-19-answers"
+        },
+        {
+          "title": "Chapter 20 Answers",
+          "slug": "17-chapter-19-accessing-css-from-javascript",
+          "anchor": "chapter-20-answers"
+        },
+        {
+          "title": "Chapter 21 Answers",
+          "slug": "17-chapter-19-accessing-css-from-javascript",
+          "anchor": "chapter-21-answers"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 22. Bringing It All Together",
+      "slug": "18-chapter-22-bringing-it-all-together",
+      "children": [
+        {
+          "title": "Chapter 22 Answers",
+          "slug": "18-chapter-22-bringing-it-all-together",
+          "anchor": "chapter-22-answers"
+        }
+      ]
+    },
+    {
+      "title": "Index",
+      "slug": "19-index"
+    },
+    {
+      "title": "About the Author",
+      "slug": "20-about-the-author"
+    },
+    {
+      "title": "Colophon",
+      "slug": "21-colophon"
+    }
+  ]
+}

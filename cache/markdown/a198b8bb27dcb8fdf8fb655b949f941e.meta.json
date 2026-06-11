@@ -1,0 +1,2025 @@
+{
+  "page_count": 655,
+  "toc": [
+    {
+      "level": 1,
+      "title": "Cover"
+    },
+    {
+      "level": 1,
+      "title": "Copyright"
+    },
+    {
+      "level": 1,
+      "title": "Table of Contents"
+    },
+    {
+      "level": 1,
+      "title": "Preface"
+    },
+    {
+      "level": 2,
+      "title": "Audience"
+    },
+    {
+      "level": 2,
+      "title": "Assumptions This Book Makes"
+    },
+    {
+      "level": 2,
+      "title": "Organization of This Book"
+    },
+    {
+      "level": 2,
+      "title": "Conventions Used in This Book"
+    },
+    {
+      "level": 2,
+      "title": "Using Code Examples"
+    },
+    {
+      "level": 2,
+      "title": "O’Reilly Online Learning"
+    },
+    {
+      "level": 2,
+      "title": "How to Contact Us"
+    },
+    {
+      "level": 2,
+      "title": "Acknowledgments"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 1. Introduction to Dynamic Web Content"
+    },
+    {
+      "level": 2,
+      "title": "HTTP and HTML: Berners-Lee’s Basics"
+    },
+    {
+      "level": 2,
+      "title": "The Request/Response Procedure"
+    },
+    {
+      "level": 2,
+      "title": "The Benefits of PHP, MySQL, JavaScript, CSS, and HTML"
+    },
+    {
+      "level": 3,
+      "title": "MariaDB: The MySQL Clone"
+    },
+    {
+      "level": 3,
+      "title": "Using PHP"
+    },
+    {
+      "level": 3,
+      "title": "Using MySQL"
+    },
+    {
+      "level": 3,
+      "title": "Using JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Using CSS"
+    },
+    {
+      "level": 2,
+      "title": "And Then There’s HTML5"
+    },
+    {
+      "level": 2,
+      "title": "The Apache Web Server"
+    },
+    {
+      "level": 2,
+      "title": "Node.js: An Alternative to Apache"
+    },
+    {
+      "level": 2,
+      "title": "About Open Source"
+    },
+    {
+      "level": 2,
+      "title": "Bringing It All Together"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 2. Setting Up a Development Server"
+    },
+    {
+      "level": 2,
+      "title": "What Is a WAMP, MAMP, or LAMP?"
+    },
+    {
+      "level": 2,
+      "title": "Installing AMPPS on Windows"
+    },
+    {
+      "level": 3,
+      "title": "Testing the Installation"
+    },
+    {
+      "level": 3,
+      "title": "Accessing the Document Root (Windows)"
+    },
+    {
+      "level": 3,
+      "title": "Alternative WAMPs"
+    },
+    {
+      "level": 2,
+      "title": "Installing AMPPS on macOS"
+    },
+    {
+      "level": 2,
+      "title": "Installing a LAMP on Linux"
+    },
+    {
+      "level": 2,
+      "title": "Working Remotely"
+    },
+    {
+      "level": 3,
+      "title": "Logging In"
+    },
+    {
+      "level": 3,
+      "title": "Transferring Files"
+    },
+    {
+      "level": 2,
+      "title": "Using a Code Editor"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 3. Introduction to PHP"
+    },
+    {
+      "level": 2,
+      "title": "Incorporating PHP Within HTML"
+    },
+    {
+      "level": 2,
+      "title": "This Book’s Examples"
+    },
+    {
+      "level": 2,
+      "title": "The Structure of PHP"
+    },
+    {
+      "level": 3,
+      "title": "Using Comments"
+    },
+    {
+      "level": 3,
+      "title": "Basic Syntax"
+    },
+    {
+      "level": 3,
+      "title": "Variables"
+    },
+    {
+      "level": 3,
+      "title": "Operators"
+    },
+    {
+      "level": 3,
+      "title": "Variable Assignment"
+    },
+    {
+      "level": 3,
+      "title": "Multiline Strings"
+    },
+    {
+      "level": 3,
+      "title": "Variable Typing"
+    },
+    {
+      "level": 3,
+      "title": "Constants"
+    },
+    {
+      "level": 3,
+      "title": "Predefined Constants"
+    },
+    {
+      "level": 3,
+      "title": "The Difference Between the echo and print Commands"
+    },
+    {
+      "level": 3,
+      "title": "Functions"
+    },
+    {
+      "level": 3,
+      "title": "Variable Scope"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 4. Expressions and Control Flow in PHP"
+    },
+    {
+      "level": 2,
+      "title": "Expressions"
+    },
+    {
+      "level": 3,
+      "title": "TRUE or FALSE?"
+    },
+    {
+      "level": 3,
+      "title": "Literals and Variables"
+    },
+    {
+      "level": 2,
+      "title": "Operators"
+    },
+    {
+      "level": 3,
+      "title": "Operator Precedence"
+    },
+    {
+      "level": 3,
+      "title": "Associativity"
+    },
+    {
+      "level": 3,
+      "title": "Relational Operators"
+    },
+    {
+      "level": 2,
+      "title": "Conditionals"
+    },
+    {
+      "level": 3,
+      "title": "The if Statement"
+    },
+    {
+      "level": 3,
+      "title": "The else Statement"
+    },
+    {
+      "level": 3,
+      "title": "The elseif Statement"
+    },
+    {
+      "level": 3,
+      "title": "The switch Statement"
+    },
+    {
+      "level": 3,
+      "title": "The ? (or Ternary) Operator"
+    },
+    {
+      "level": 2,
+      "title": "Looping"
+    },
+    {
+      "level": 3,
+      "title": "while Loops"
+    },
+    {
+      "level": 3,
+      "title": "do...while Loops"
+    },
+    {
+      "level": 3,
+      "title": "for Loops"
+    },
+    {
+      "level": 3,
+      "title": "Breaking Out of a Loop"
+    },
+    {
+      "level": 3,
+      "title": "The continue Statement"
+    },
+    {
+      "level": 2,
+      "title": "Implicit and Explicit Casting"
+    },
+    {
+      "level": 2,
+      "title": "PHP Modularization"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 5. PHP Functions and Objects"
+    },
+    {
+      "level": 2,
+      "title": "PHP Functions"
+    },
+    {
+      "level": 3,
+      "title": "Defining a Function"
+    },
+    {
+      "level": 3,
+      "title": "Returning a Value"
+    },
+    {
+      "level": 3,
+      "title": "Returning an Array"
+    },
+    {
+      "level": 3,
+      "title": "Returning Global Variables"
+    },
+    {
+      "level": 3,
+      "title": "Recap of Variable Scope"
+    },
+    {
+      "level": 2,
+      "title": "Including and Requiring Files"
+    },
+    {
+      "level": 3,
+      "title": "The include Statement"
+    },
+    {
+      "level": 3,
+      "title": "Using include_once"
+    },
+    {
+      "level": 3,
+      "title": "Using require and require_once"
+    },
+    {
+      "level": 2,
+      "title": "PHP Version Compatibility"
+    },
+    {
+      "level": 2,
+      "title": "PHP Objects"
+    },
+    {
+      "level": 3,
+      "title": "Terminology"
+    },
+    {
+      "level": 3,
+      "title": "Declaring a Class"
+    },
+    {
+      "level": 3,
+      "title": "Creating an Object"
+    },
+    {
+      "level": 3,
+      "title": "Accessing Objects"
+    },
+    {
+      "level": 3,
+      "title": "Cloning Objects"
+    },
+    {
+      "level": 3,
+      "title": "Constructors"
+    },
+    {
+      "level": 3,
+      "title": "Destructors"
+    },
+    {
+      "level": 3,
+      "title": "Writing Methods"
+    },
+    {
+      "level": 3,
+      "title": "Declaring Properties"
+    },
+    {
+      "level": 3,
+      "title": "Static Methods"
+    },
+    {
+      "level": 3,
+      "title": "Declaring Constants"
+    },
+    {
+      "level": 3,
+      "title": "Property and Method Scope"
+    },
+    {
+      "level": 3,
+      "title": "Static Properties"
+    },
+    {
+      "level": 3,
+      "title": "Inheritance"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 6. PHP Arrays"
+    },
+    {
+      "level": 2,
+      "title": "Basic Access"
+    },
+    {
+      "level": 3,
+      "title": "Numerically Indexed Arrays"
+    },
+    {
+      "level": 3,
+      "title": "Associative Arrays"
+    },
+    {
+      "level": 3,
+      "title": "Assignment Using the array Keyword"
+    },
+    {
+      "level": 2,
+      "title": "The foreach...as Loop"
+    },
+    {
+      "level": 2,
+      "title": "Multidimensional Arrays"
+    },
+    {
+      "level": 2,
+      "title": "Using Array Functions"
+    },
+    {
+      "level": 3,
+      "title": "is_array"
+    },
+    {
+      "level": 3,
+      "title": "count"
+    },
+    {
+      "level": 3,
+      "title": "sort"
+    },
+    {
+      "level": 3,
+      "title": "shuffle"
+    },
+    {
+      "level": 3,
+      "title": "explode"
+    },
+    {
+      "level": 3,
+      "title": "compact"
+    },
+    {
+      "level": 3,
+      "title": "reset"
+    },
+    {
+      "level": 3,
+      "title": "end"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 7. Practical PHP"
+    },
+    {
+      "level": 2,
+      "title": "Using printf"
+    },
+    {
+      "level": 3,
+      "title": "Precision Setting"
+    },
+    {
+      "level": 3,
+      "title": "String Padding"
+    },
+    {
+      "level": 3,
+      "title": "Using sprintf"
+    },
+    {
+      "level": 2,
+      "title": "Date and Time Functions"
+    },
+    {
+      "level": 3,
+      "title": "Date Constants"
+    },
+    {
+      "level": 3,
+      "title": "Using checkdate"
+    },
+    {
+      "level": 2,
+      "title": "File Handling"
+    },
+    {
+      "level": 3,
+      "title": "Checking Whether a File Exists"
+    },
+    {
+      "level": 3,
+      "title": "Creating a File"
+    },
+    {
+      "level": 3,
+      "title": "Reading from Files"
+    },
+    {
+      "level": 3,
+      "title": "Copying Files"
+    },
+    {
+      "level": 3,
+      "title": "Moving a File"
+    },
+    {
+      "level": 3,
+      "title": "Deleting a File"
+    },
+    {
+      "level": 3,
+      "title": "Updating Files"
+    },
+    {
+      "level": 3,
+      "title": "Locking Files for Multiple Accesses"
+    },
+    {
+      "level": 3,
+      "title": "Reading an Entire File"
+    },
+    {
+      "level": 3,
+      "title": "Uploading Files"
+    },
+    {
+      "level": 2,
+      "title": "System Calls"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 8. Introduction to MySQL"
+    },
+    {
+      "level": 2,
+      "title": "MySQL Basics"
+    },
+    {
+      "level": 2,
+      "title": "Key Database Terms"
+    },
+    {
+      "level": 2,
+      "title": "Accessing MySQL via the Command Line"
+    },
+    {
+      "level": 3,
+      "title": "Starting the Command-Line Interface"
+    },
+    {
+      "level": 3,
+      "title": "Using the Command-Line Interface"
+    },
+    {
+      "level": 3,
+      "title": "MySQL Commands"
+    },
+    {
+      "level": 3,
+      "title": "Data Types"
+    },
+    {
+      "level": 2,
+      "title": "Indexes"
+    },
+    {
+      "level": 3,
+      "title": "Creating an Index"
+    },
+    {
+      "level": 3,
+      "title": "Querying a MySQL Database"
+    },
+    {
+      "level": 3,
+      "title": "Joining Tables"
+    },
+    {
+      "level": 3,
+      "title": "Using Logical Operators"
+    },
+    {
+      "level": 2,
+      "title": "MySQL Functions"
+    },
+    {
+      "level": 2,
+      "title": "Accessing MySQL via phpMyAdmin"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 9. Mastering MySQL"
+    },
+    {
+      "level": 2,
+      "title": "Database Design"
+    },
+    {
+      "level": 2,
+      "title": "Primary Keys: The Keys to Relational Databases"
+    },
+    {
+      "level": 2,
+      "title": "Normalization"
+    },
+    {
+      "level": 3,
+      "title": "First Normal Form"
+    },
+    {
+      "level": 3,
+      "title": "Second Normal Form"
+    },
+    {
+      "level": 3,
+      "title": "Third Normal Form"
+    },
+    {
+      "level": 3,
+      "title": "When Not to Use Normalization"
+    },
+    {
+      "level": 2,
+      "title": "Relationships"
+    },
+    {
+      "level": 3,
+      "title": "One-to-One"
+    },
+    {
+      "level": 3,
+      "title": "One-to-Many"
+    },
+    {
+      "level": 3,
+      "title": "Many-to-Many"
+    },
+    {
+      "level": 3,
+      "title": "Databases and Privacy"
+    },
+    {
+      "level": 2,
+      "title": "Transactions"
+    },
+    {
+      "level": 3,
+      "title": "Transaction Storage Engines"
+    },
+    {
+      "level": 3,
+      "title": "Using START TRANSACTION"
+    },
+    {
+      "level": 3,
+      "title": "Using COMMIT"
+    },
+    {
+      "level": 3,
+      "title": "Using ROLLBACK"
+    },
+    {
+      "level": 2,
+      "title": "Using EXPLAIN"
+    },
+    {
+      "level": 2,
+      "title": "Backing Up and Restoring"
+    },
+    {
+      "level": 3,
+      "title": "Using mysqldump"
+    },
+    {
+      "level": 3,
+      "title": "Creating a Backup File"
+    },
+    {
+      "level": 3,
+      "title": "Restoring from a Backup File"
+    },
+    {
+      "level": 3,
+      "title": "Dumping Data in CSV Format"
+    },
+    {
+      "level": 3,
+      "title": "Planning Your Backups"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 10. Accessing MySQL Using PHP"
+    },
+    {
+      "level": 2,
+      "title": "Querying a MySQL Database with PHP"
+    },
+    {
+      "level": 3,
+      "title": "The Process"
+    },
+    {
+      "level": 3,
+      "title": "Creating a Login File"
+    },
+    {
+      "level": 3,
+      "title": "Connecting to a MySQL Database"
+    },
+    {
+      "level": 3,
+      "title": "Building and Executing a Query"
+    },
+    {
+      "level": 3,
+      "title": "Fetching a Result"
+    },
+    {
+      "level": 3,
+      "title": "Fetching a Row While Specifying the Style"
+    },
+    {
+      "level": 3,
+      "title": "Closing a Connection"
+    },
+    {
+      "level": 2,
+      "title": "A Practical Example"
+    },
+    {
+      "level": 3,
+      "title": "The $_POST Array"
+    },
+    {
+      "level": 3,
+      "title": "Deleting a Record"
+    },
+    {
+      "level": 3,
+      "title": "Displaying the Form"
+    },
+    {
+      "level": 3,
+      "title": "Querying the Database"
+    },
+    {
+      "level": 3,
+      "title": "Running the Program"
+    },
+    {
+      "level": 2,
+      "title": "Practical MySQL"
+    },
+    {
+      "level": 3,
+      "title": "Creating a Table"
+    },
+    {
+      "level": 3,
+      "title": "Describing a Table"
+    },
+    {
+      "level": 3,
+      "title": "Dropping a Table"
+    },
+    {
+      "level": 3,
+      "title": "Adding Data"
+    },
+    {
+      "level": 3,
+      "title": "Retrieving Data"
+    },
+    {
+      "level": 3,
+      "title": "Updating Data"
+    },
+    {
+      "level": 3,
+      "title": "Deleting Data"
+    },
+    {
+      "level": 3,
+      "title": "Using AUTO_INCREMENT"
+    },
+    {
+      "level": 3,
+      "title": "Performing Additional Queries"
+    },
+    {
+      "level": 2,
+      "title": "Preventing Hacking Attempts"
+    },
+    {
+      "level": 3,
+      "title": "Steps You Can Take"
+    },
+    {
+      "level": 3,
+      "title": "Using Placeholders"
+    },
+    {
+      "level": 3,
+      "title": "Preventing JavaScript Injection into HTML"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 11. Form Handling"
+    },
+    {
+      "level": 2,
+      "title": "Building Forms"
+    },
+    {
+      "level": 2,
+      "title": "Retrieving Submitted Data"
+    },
+    {
+      "level": 3,
+      "title": "Default Values"
+    },
+    {
+      "level": 3,
+      "title": "Input Types"
+    },
+    {
+      "level": 3,
+      "title": "Sanitizing Input"
+    },
+    {
+      "level": 2,
+      "title": "An Example Program"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 12. Cookies, Sessions, and Authentication"
+    },
+    {
+      "level": 2,
+      "title": "Using Cookies in PHP"
+    },
+    {
+      "level": 3,
+      "title": "Setting a Cookie"
+    },
+    {
+      "level": 3,
+      "title": "Accessing a Cookie"
+    },
+    {
+      "level": 3,
+      "title": "Destroying a Cookie"
+    },
+    {
+      "level": 2,
+      "title": "HTTP Authentication"
+    },
+    {
+      "level": 3,
+      "title": "Storing Usernames and Passwords"
+    },
+    {
+      "level": 3,
+      "title": "An Example Program"
+    },
+    {
+      "level": 2,
+      "title": "Using Sessions"
+    },
+    {
+      "level": 3,
+      "title": "Starting a Session"
+    },
+    {
+      "level": 3,
+      "title": "Ending a Session"
+    },
+    {
+      "level": 3,
+      "title": "Setting a Timeout"
+    },
+    {
+      "level": 3,
+      "title": "Session Security"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 13. Exploring JavaScript"
+    },
+    {
+      "level": 2,
+      "title": "Outputting the Results"
+    },
+    {
+      "level": 3,
+      "title": "Using console.log"
+    },
+    {
+      "level": 3,
+      "title": "Using alert"
+    },
+    {
+      "level": 3,
+      "title": "Writing into Elements"
+    },
+    {
+      "level": 3,
+      "title": "Using document.write"
+    },
+    {
+      "level": 2,
+      "title": "JavaScript and HTML Text"
+    },
+    {
+      "level": 3,
+      "title": "Using Scripts Within a Document Head"
+    },
+    {
+      "level": 3,
+      "title": "Including JavaScript Files"
+    },
+    {
+      "level": 3,
+      "title": "Debugging JavaScript Errors"
+    },
+    {
+      "level": 2,
+      "title": "Using Comments"
+    },
+    {
+      "level": 2,
+      "title": "Semicolons"
+    },
+    {
+      "level": 2,
+      "title": "Variables"
+    },
+    {
+      "level": 3,
+      "title": "String Variables"
+    },
+    {
+      "level": 3,
+      "title": "Numeric Variables"
+    },
+    {
+      "level": 3,
+      "title": "Arrays"
+    },
+    {
+      "level": 2,
+      "title": "Operators"
+    },
+    {
+      "level": 3,
+      "title": "Arithmetic Operators"
+    },
+    {
+      "level": 3,
+      "title": "Assignment Operators"
+    },
+    {
+      "level": 3,
+      "title": "Comparison Operators"
+    },
+    {
+      "level": 3,
+      "title": "Logical Operators"
+    },
+    {
+      "level": 3,
+      "title": "Incrementing, Decrementing, and Shorthand Assignment"
+    },
+    {
+      "level": 3,
+      "title": "String Concatenation"
+    },
+    {
+      "level": 3,
+      "title": "Escape Characters"
+    },
+    {
+      "level": 2,
+      "title": "Variable Typing"
+    },
+    {
+      "level": 2,
+      "title": "Functions"
+    },
+    {
+      "level": 2,
+      "title": "Global Variables"
+    },
+    {
+      "level": 2,
+      "title": "Local Variables"
+    },
+    {
+      "level": 3,
+      "title": "Using let"
+    },
+    {
+      "level": 3,
+      "title": "Using const"
+    },
+    {
+      "level": 2,
+      "title": "The Document Object Model"
+    },
+    {
+      "level": 3,
+      "title": "Another Use for the $ Symbol"
+    },
+    {
+      "level": 3,
+      "title": "Using the DOM"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 14. Expressions and Control Flow in JavaScript"
+    },
+    {
+      "level": 2,
+      "title": "Expressions"
+    },
+    {
+      "level": 2,
+      "title": "Literals and Variables"
+    },
+    {
+      "level": 2,
+      "title": "Operators"
+    },
+    {
+      "level": 3,
+      "title": "Operator Precedence"
+    },
+    {
+      "level": 3,
+      "title": "Associativity"
+    },
+    {
+      "level": 3,
+      "title": "Relational Operators"
+    },
+    {
+      "level": 2,
+      "title": "Using onerror"
+    },
+    {
+      "level": 2,
+      "title": "Using try...catch"
+    },
+    {
+      "level": 2,
+      "title": "Conditionals"
+    },
+    {
+      "level": 3,
+      "title": "The if Statement"
+    },
+    {
+      "level": 3,
+      "title": "The else Statement"
+    },
+    {
+      "level": 3,
+      "title": "The switch Statement"
+    },
+    {
+      "level": 3,
+      "title": "The ? Operator"
+    },
+    {
+      "level": 2,
+      "title": "Looping"
+    },
+    {
+      "level": 3,
+      "title": "while Loops"
+    },
+    {
+      "level": 3,
+      "title": "do...while Loops"
+    },
+    {
+      "level": 3,
+      "title": "for Loops"
+    },
+    {
+      "level": 3,
+      "title": "Breaking Out of a Loop"
+    },
+    {
+      "level": 3,
+      "title": "The continue Statement"
+    },
+    {
+      "level": 2,
+      "title": "Explicit Casting"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 15. JavaScript Functions, Objects, and Arrays"
+    },
+    {
+      "level": 2,
+      "title": "JavaScript Functions"
+    },
+    {
+      "level": 3,
+      "title": "Defining a Function"
+    },
+    {
+      "level": 3,
+      "title": "Returning a Value"
+    },
+    {
+      "level": 3,
+      "title": "Returning an Array"
+    },
+    {
+      "level": 2,
+      "title": "JavaScript Objects"
+    },
+    {
+      "level": 3,
+      "title": "Declaring a Class"
+    },
+    {
+      "level": 3,
+      "title": "Creating an Instance"
+    },
+    {
+      "level": 3,
+      "title": "Accessing Objects"
+    },
+    {
+      "level": 3,
+      "title": "Static Methods and Properties"
+    },
+    {
+      "level": 3,
+      "title": "The Legacy Objects Simulated with Functions"
+    },
+    {
+      "level": 2,
+      "title": "JavaScript Arrays"
+    },
+    {
+      "level": 3,
+      "title": "Arrays"
+    },
+    {
+      "level": 3,
+      "title": "Associative Arrays"
+    },
+    {
+      "level": 3,
+      "title": "Multidimensional Arrays"
+    },
+    {
+      "level": 3,
+      "title": "Using Array Methods"
+    },
+    {
+      "level": 2,
+      "title": "Anonymous Functions"
+    },
+    {
+      "level": 2,
+      "title": "Arrow Functions"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 16. JavaScript and PHP Validation and Error Handling"
+    },
+    {
+      "level": 2,
+      "title": "Validating User Input with JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "The validate.html Document (Part 1)"
+    },
+    {
+      "level": 3,
+      "title": "The validate.html Document (Part 2)"
+    },
+    {
+      "level": 2,
+      "title": "Regular Expressions"
+    },
+    {
+      "level": 3,
+      "title": "Matching Through Metacharacters"
+    },
+    {
+      "level": 3,
+      "title": "Wildcard Matching"
+    },
+    {
+      "level": 3,
+      "title": "Grouping Through Parentheses"
+    },
+    {
+      "level": 3,
+      "title": "Character Classes"
+    },
+    {
+      "level": 3,
+      "title": "Indicating a Range"
+    },
+    {
+      "level": 3,
+      "title": "Negation"
+    },
+    {
+      "level": 3,
+      "title": "Some More Complicated Examples"
+    },
+    {
+      "level": 3,
+      "title": "Summary of Metacharacters"
+    },
+    {
+      "level": 3,
+      "title": "General Modifiers"
+    },
+    {
+      "level": 3,
+      "title": "Using Regular Expressions in JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Using Regular Expressions in PHP"
+    },
+    {
+      "level": 2,
+      "title": "Redisplaying a Form After PHP Validation"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 17. Using Asynchronous Communication"
+    },
+    {
+      "level": 2,
+      "title": "The Fetch API"
+    },
+    {
+      "level": 3,
+      "title": "Your First Asynchronous Program"
+    },
+    {
+      "level": 3,
+      "title": "The Server Half of the Asynchronous Process"
+    },
+    {
+      "level": 3,
+      "title": "Cross-Origin Resource Sharing (CORS)"
+    },
+    {
+      "level": 3,
+      "title": "Using GET Instead of POST"
+    },
+    {
+      "level": 3,
+      "title": "Sending JSON Requests"
+    },
+    {
+      "level": 2,
+      "title": "Using XMLHttpRequest"
+    },
+    {
+      "level": 2,
+      "title": "Using Frameworks for Asynchronous Communication"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 18. Advanced CSS"
+    },
+    {
+      "level": 2,
+      "title": "Attribute Selectors"
+    },
+    {
+      "level": 3,
+      "title": "The ^= Operator"
+    },
+    {
+      "level": 3,
+      "title": "The $= Operator"
+    },
+    {
+      "level": 3,
+      "title": "The *= Operator"
+    },
+    {
+      "level": 2,
+      "title": "The box-sizing Property"
+    },
+    {
+      "level": 2,
+      "title": "CSS Backgrounds"
+    },
+    {
+      "level": 3,
+      "title": "The background-clip Property"
+    },
+    {
+      "level": 3,
+      "title": "The background-origin Property"
+    },
+    {
+      "level": 3,
+      "title": "The background-size Property"
+    },
+    {
+      "level": 3,
+      "title": "Using the auto Value"
+    },
+    {
+      "level": 3,
+      "title": "Multiple Backgrounds"
+    },
+    {
+      "level": 2,
+      "title": "CSS Borders"
+    },
+    {
+      "level": 3,
+      "title": "The border-color Property"
+    },
+    {
+      "level": 3,
+      "title": "The border-radius Property"
+    },
+    {
+      "level": 2,
+      "title": "Box Shadows"
+    },
+    {
+      "level": 2,
+      "title": "Element Overflow"
+    },
+    {
+      "level": 2,
+      "title": "Multicolumn Layout"
+    },
+    {
+      "level": 2,
+      "title": "Colors and Opacity"
+    },
+    {
+      "level": 3,
+      "title": "HSL Colors"
+    },
+    {
+      "level": 3,
+      "title": "HSLA Colors"
+    },
+    {
+      "level": 3,
+      "title": "RGB Colors"
+    },
+    {
+      "level": 3,
+      "title": "RGBA Colors"
+    },
+    {
+      "level": 3,
+      "title": "The opacity Property"
+    },
+    {
+      "level": 2,
+      "title": "Text Effects"
+    },
+    {
+      "level": 3,
+      "title": "The text-shadow Property"
+    },
+    {
+      "level": 3,
+      "title": "The text-overflow Property"
+    },
+    {
+      "level": 3,
+      "title": "The word-wrap Property"
+    },
+    {
+      "level": 2,
+      "title": "Web Fonts"
+    },
+    {
+      "level": 2,
+      "title": "Google Web Fonts"
+    },
+    {
+      "level": 2,
+      "title": "Transformations"
+    },
+    {
+      "level": 2,
+      "title": "Transitions"
+    },
+    {
+      "level": 3,
+      "title": "Properties to Transition"
+    },
+    {
+      "level": 3,
+      "title": "Transition Duration"
+    },
+    {
+      "level": 3,
+      "title": "Transition Delay"
+    },
+    {
+      "level": 3,
+      "title": "Transition Timing"
+    },
+    {
+      "level": 3,
+      "title": "Shorthand Syntax"
+    },
+    {
+      "level": 2,
+      "title": "Flexbox"
+    },
+    {
+      "level": 3,
+      "title": "Flex Items"
+    },
+    {
+      "level": 3,
+      "title": "Flow Direction"
+    },
+    {
+      "level": 3,
+      "title": "Justifying Content"
+    },
+    {
+      "level": 3,
+      "title": "Aligning Items"
+    },
+    {
+      "level": 3,
+      "title": "Aligning Content"
+    },
+    {
+      "level": 3,
+      "title": "Resizing Items"
+    },
+    {
+      "level": 3,
+      "title": "Flex Wrap"
+    },
+    {
+      "level": 3,
+      "title": "Order"
+    },
+    {
+      "level": 3,
+      "title": "Item Gaps"
+    },
+    {
+      "level": 2,
+      "title": "CSS Grid"
+    },
+    {
+      "level": 3,
+      "title": "Grid Container"
+    },
+    {
+      "level": 3,
+      "title": "Grid Columns and Rows"
+    },
+    {
+      "level": 3,
+      "title": "Grid Flow"
+    },
+    {
+      "level": 3,
+      "title": "Placing Grid Items"
+    },
+    {
+      "level": 3,
+      "title": "Grid Gaps"
+    },
+    {
+      "level": 3,
+      "title": "Alignment"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 19. Accessing CSS from JavaScript"
+    },
+    {
+      "level": 2,
+      "title": "Revisiting the getElementById Function"
+    },
+    {
+      "level": 3,
+      "title": "The byId Function"
+    },
+    {
+      "level": 3,
+      "title": "The style Function"
+    },
+    {
+      "level": 3,
+      "title": "The by Function"
+    },
+    {
+      "level": 3,
+      "title": "Including the Functions"
+    },
+    {
+      "level": 2,
+      "title": "Accessing CSS Properties from JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "Some Common Properties"
+    },
+    {
+      "level": 3,
+      "title": "Other Properties"
+    },
+    {
+      "level": 2,
+      "title": "Inline JavaScript"
+    },
+    {
+      "level": 3,
+      "title": "The this Keyword"
+    },
+    {
+      "level": 3,
+      "title": "Attaching Events to Objects in a Script"
+    },
+    {
+      "level": 3,
+      "title": "Attaching to Other Events"
+    },
+    {
+      "level": 2,
+      "title": "Adding New Elements"
+    },
+    {
+      "level": 3,
+      "title": "Removing Elements"
+    },
+    {
+      "level": 3,
+      "title": "Alternatives to Adding and Removing Elements"
+    },
+    {
+      "level": 2,
+      "title": "Time-based Events"
+    },
+    {
+      "level": 3,
+      "title": "Using setTimeout"
+    },
+    {
+      "level": 3,
+      "title": "Using setInterval"
+    },
+    {
+      "level": 3,
+      "title": "Using Time-Based Events for Animation"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 20. Introduction to React"
+    },
+    {
+      "level": 2,
+      "title": "What Is the Point of React Anyway?"
+    },
+    {
+      "level": 2,
+      "title": "Accessing the React Files"
+    },
+    {
+      "level": 2,
+      "title": "Including babel.js"
+    },
+    {
+      "level": 2,
+      "title": "Our First React Project"
+    },
+    {
+      "level": 3,
+      "title": "Using a Class Instead of a Function"
+    },
+    {
+      "level": 3,
+      "title": "Pure and Impure Code: A Golden Rule"
+    },
+    {
+      "level": 3,
+      "title": "Using Both a Class and a Function"
+    },
+    {
+      "level": 3,
+      "title": "Props and Components"
+    },
+    {
+      "level": 3,
+      "title": "The Differences Between Using a Class and a Function"
+    },
+    {
+      "level": 2,
+      "title": "React State and Life Cycle"
+    },
+    {
+      "level": 2,
+      "title": "Events in React"
+    },
+    {
+      "level": 2,
+      "title": "Inline JSX Conditional Statements"
+    },
+    {
+      "level": 2,
+      "title": "Using Lists and Keys"
+    },
+    {
+      "level": 2,
+      "title": "Unique Keys"
+    },
+    {
+      "level": 2,
+      "title": "Handling Forms"
+    },
+    {
+      "level": 3,
+      "title": "Using Text Input"
+    },
+    {
+      "level": 3,
+      "title": "Using textarea"
+    },
+    {
+      "level": 3,
+      "title": "Using select"
+    },
+    {
+      "level": 2,
+      "title": "React Native"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 21. Introduction to Node.js"
+    },
+    {
+      "level": 2,
+      "title": "Installing Node.js on Windows"
+    },
+    {
+      "level": 2,
+      "title": "Installing Node.js on macOS"
+    },
+    {
+      "level": 2,
+      "title": "Installing Node.js on Linux"
+    },
+    {
+      "level": 2,
+      "title": "Getting Started with Node.js"
+    },
+    {
+      "level": 2,
+      "title": "Building a Functioning Web Server"
+    },
+    {
+      "level": 2,
+      "title": "Working with Modules"
+    },
+    {
+      "level": 3,
+      "title": "Built-in Modules"
+    },
+    {
+      "level": 3,
+      "title": "Installing Modules with npm"
+    },
+    {
+      "level": 3,
+      "title": "Accessing MySQL"
+    },
+    {
+      "level": 3,
+      "title": "Further Information"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Chapter 22. Bringing It All Together"
+    },
+    {
+      "level": 2,
+      "title": "Designing a Social Networking App"
+    },
+    {
+      "level": 2,
+      "title": "Online Repository"
+    },
+    {
+      "level": 2,
+      "title": "functions.php"
+    },
+    {
+      "level": 2,
+      "title": "header.php"
+    },
+    {
+      "level": 2,
+      "title": "setup.php"
+    },
+    {
+      "level": 2,
+      "title": "index.php"
+    },
+    {
+      "level": 2,
+      "title": "signup.php"
+    },
+    {
+      "level": 3,
+      "title": "Checking for Username Availability"
+    },
+    {
+      "level": 3,
+      "title": "Logging In"
+    },
+    {
+      "level": 2,
+      "title": "checkuser.php"
+    },
+    {
+      "level": 2,
+      "title": "login.php"
+    },
+    {
+      "level": 2,
+      "title": "profile.php"
+    },
+    {
+      "level": 3,
+      "title": "Adding the “About Me” Text"
+    },
+    {
+      "level": 3,
+      "title": "Adding a Profile Image"
+    },
+    {
+      "level": 3,
+      "title": "Processing the Image"
+    },
+    {
+      "level": 3,
+      "title": "Displaying the Current Profile"
+    },
+    {
+      "level": 2,
+      "title": "members.php"
+    },
+    {
+      "level": 3,
+      "title": "Viewing a User’s Profile"
+    },
+    {
+      "level": 3,
+      "title": "Adding and Dropping Friends"
+    },
+    {
+      "level": 3,
+      "title": "Listing All Members"
+    },
+    {
+      "level": 2,
+      "title": "friends.php"
+    },
+    {
+      "level": 2,
+      "title": "messages.php"
+    },
+    {
+      "level": 2,
+      "title": "logout.php"
+    },
+    {
+      "level": 2,
+      "title": "styles.css"
+    },
+    {
+      "level": 2,
+      "title": "javascript.js"
+    },
+    {
+      "level": 2,
+      "title": "Questions"
+    },
+    {
+      "level": 1,
+      "title": "Appendix A. Solutions to the Chapter Questions"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 1 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 2 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 3 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 4 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 5 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 6 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 7 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 8 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 9 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 10 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 11 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 12 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 13 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 14 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 15 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 16 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 17 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 18 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 19 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 20 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 21 Answers"
+    },
+    {
+      "level": 2,
+      "title": "Chapter 22 Answers"
+    },
+    {
+      "level": 1,
+      "title": "Index"
+    },
+    {
+      "level": 1,
+      "title": "About the Author"
+    },
+    {
+      "level": 1,
+      "title": "Colophon"
+    }
+  ]
+}
