@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-11T06:34:40.096Z",
+  "updated_at": "2026-06-12T02:09:54.073Z",
   "items": [
     {
       "id": "learningphp-mysqljavascriptastep-by-stepguidetocreatingdynamicwebsites-7thedition-robinnixon-z-libr",
@@ -14,6 +14,19 @@
       "visibility": "published",
       "metadata_updated_at": "2026-06-11T06:24:34Z",
       "source": "LearningPHP,MySQLJavaScriptAStep-by-StepGuidetoCreatingDynamicWebsites,7thEdition(RobinNixon)(z-libr.pdf"
+    },
+    {
+      "id": "mastervue-jsin6days-becomeavue-jsexpertinunderaweek-ericsarrion-z-library-sk-1lib-sk-z-lib-sk",
+      "type": "book",
+      "display_title": "",
+      "author": "",
+      "summary": "",
+      "tags": [],
+      "featured": false,
+      "manual_order": null,
+      "visibility": "published",
+      "metadata_updated_at": "2026-06-11T07:22:01Z",
+      "source": "MasterVue.jsin6Days.BecomeaVue.jsExpertinUnderaWeek(EricSarrion)(z-library.sk,1lib.sk,z-lib.sk).pdf"
     },
     {
       "id": "progit",
